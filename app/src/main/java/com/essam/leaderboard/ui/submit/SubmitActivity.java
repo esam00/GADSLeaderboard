@@ -45,7 +45,7 @@ public class SubmitActivity extends AppCompatActivity implements View.OnClickLis
         mSubmitViewModel.responseLiveData.observe(this, new Observer<Response<Void>>() {
             @Override
             public void onChanged(Response<Void> voidResponse) {
-                if (voidResponse.isSuccessful()){
+                if (voidResponse != null && voidResponse.isSuccessful()){
                     showDialog(DialogState.success);
                 }else {
                     showDialog(DialogState.failed);
