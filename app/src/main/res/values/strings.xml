@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">LEADERBOARD</string>
+    <string name="network_request_failed">something went wrong, please try again</string>
+    <string name="no_internet">No Internet connection!</string>
+    <string name="retry">Retry</string>
+    <string name="logo">logo</string>
+    <string name="first_fragment_title">Learning Leaders</string>
+    <string name="second_fragment_title">Skill IQ Leaders</string>
+    <string name="submit">Submit</string>
+    <string name="project_submission">Project Submission</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="project_on_github_link">Project on GITHUB (link)</string>
+    <string name="back">Back</string>
+    <string name="submission_not_successful">Submission Not Successful</string>
+    <string name="are_you_sure">Are you sure ?</string>
+    <string name="yes">Yes</string>
+
+</resources>
