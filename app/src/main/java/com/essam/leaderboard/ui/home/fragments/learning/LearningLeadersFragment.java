@@ -89,7 +89,7 @@ public class LearningLeadersFragment extends Fragment implements LeaderListAdapt
                 }
             });
             snackbar.setActionTextColor(getResources().getColor(R.color.colorPrimaryDark));
-            snackbar.setBackgroundTint(getResources().getColor(R.color.colorAccent));
+            snackbar.setBackgroundTint(getResources().getColor(R.color.red));
             snackbar.show();
         }
     }

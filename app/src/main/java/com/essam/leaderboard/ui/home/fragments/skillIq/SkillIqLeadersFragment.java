@@ -89,7 +89,7 @@ public class SkillIqLeadersFragment extends Fragment implements LeaderListAdapte
                 }
             });
             snackbar.setActionTextColor(getResources().getColor(R.color.colorPrimaryDark));
-            snackbar.setBackgroundTint(getResources().getColor(R.color.colorAccent));
+            snackbar.setBackgroundTint(getResources().getColor(R.color.red));
             snackbar.show();
         }
     }

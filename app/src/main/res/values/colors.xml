@@ -6,6 +6,7 @@
 
     <color name="colorAccentOpacity">#F3FFB54A</color>
     <color name="colorMainWithOpacity">#C3271904</color>
+    <color name="red">#E1FF0000</color>
 
     <color name="white">#fff</color>
     <color name="light_gray">#A19F9F</color>
